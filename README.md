@@ -33,11 +33,11 @@ Prerequisites
 ** FastAPI
 ** Uvicorn
 ## installation
- ``git clone https://github.com/RkanGen/fastapi_App.git ``
- ``cd fastapi_App ``
+ ``git clone https://github.com/RkanGen/fastapi_App.git ``<br>
+ ``cd fastapi_App ``<br>
 # Install the dependencies:
- ``pip install fastapi uvicorn``
-**Running the Application**
+ ``pip install fastapi uvicorn``<br>
+**Running the Application**<br>
 `` uvicorn main:app --reload ``
 
 
